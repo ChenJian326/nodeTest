@@ -1,0 +1,45 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#canvasCon{
+    border: inset;
+    display: block;
+    background-image: url("/images/0013.png");
+}
+
+#itemCanvas{
+    border: inset;
+    display: none;
+    /*background-image: url("/images/h_10.png");*/
+}
+/*#friendListBtn {
+    width: 290px;
+    height: 96px;
+    background-image: url("/images/h_8.png");
+    cursor:pointer;
+    font-size: 50px;
+    /!* 上面的代码是常规设置， 即：引入一个图片背景，设置在中心位置，大小和按钮的大小一致，以及鼠标指针为手型 *!/
+}
+#addFriendBtn{
+    width: 290px;
+    height: 96px;
+    background-image: url("/images/h_8.png");
+    cursor:pointer;
+    font-size: 50px;
+    /!* 上面的代码是常规设置， 即：引入一个图片背景，设置在中心位置，大小和按钮的大小一致，以及鼠标指针为手型 *!/
+}
+#applyFriendBtn{
+    width: 290px;
+    height: 96px;
+    background-image: url("/images/h_8.png");
+    cursor:pointer;
+    font-size: 50px;
+    /!* 上面的代码是常规设置， 即：引入一个图片背景，设置在中心位置，大小和按钮的大小一致，以及鼠标指针为手型 *!/
+}*/
+
